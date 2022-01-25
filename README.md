@@ -14,7 +14,7 @@ Tipos de componentes Dart⁣
 
 ⁣
 
-Módulo II﻿⁣
+# Módulo II﻿⁣
 
 Modularização⁣
 
@@ -34,7 +34,7 @@ Modularização⁣
 
 ⁣
 
-Módulo II﻿⁣I
+# Módulo II﻿⁣I
 
 Testes Unitários⁣
 
@@ -46,7 +46,7 @@ Testes Unitários⁣
 
 
 
-Módulo II﻿V
+# Módulo II﻿V
 
 Lint e Melhores Práticas de Código
 
@@ -58,7 +58,7 @@ Lint e Melhores Práticas de Código
 
 
 
-Módulo V
+# Módulo V
 
 Melhores Práticas de Arquitetura
 
@@ -76,7 +76,7 @@ Melhores Práticas de Arquitetura
 
 
 
-Módulo VI⁣
+# Módulo VI⁣
 
 Integração Flutter < - > Nativo pré existente
 
@@ -86,7 +86,7 @@ Integração Flutter < - > Nativo pré existente
 
 
 
-Módulo VI⁣I⁣
+# Módulo VI⁣I⁣
 
 Setup de ambientes fechados⁣
 
@@ -96,7 +96,7 @@ Setup de ambientes fechados⁣
 
 ⁣
 
-Módulo VI⁣II
+# Módulo VI⁣II
 
 DaaC (Doc as Code)⁣
 
@@ -106,7 +106,7 @@ DaaC (Doc as Code)⁣
 
 ⁣
 
-Módulo IX
+# Módulo IX
 
 Animações⁣
 
@@ -118,7 +118,7 @@ Animações⁣
 
 
 
-Módulo X⁣
+# Módulo X⁣
 
 Internacionalização⁣
 
@@ -130,7 +130,7 @@ Internacionalização⁣
 
 ⁣
 
-Módulo XI
+# Módulo XI
 
 Estilização para diferentes plataformas ⁣
 
