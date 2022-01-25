@@ -13,7 +13,6 @@ Tipos de componentes Dart⁣
 • Custom Widgets⁣
 
 ⁣
-
 # Módulo II﻿⁣
 
 Modularização⁣
@@ -33,7 +32,6 @@ Modularização⁣
 • Pub Local⁣
 
 ⁣
-
 # Módulo II﻿⁣I
 
 Testes Unitários⁣
@@ -45,7 +43,6 @@ Testes Unitários⁣
 • Teste de Widget
 
 
-
 # Módulo II﻿V
 
 Lint e Melhores Práticas de Código
@@ -55,7 +52,6 @@ Lint e Melhores Práticas de Código
 • Effective Dart
 
 • Pedantic
-
 
 
 # Módulo V
@@ -75,7 +71,6 @@ Melhores Práticas de Arquitetura
 • Clean Dart
 
 
-
 # Módulo VI⁣
 
 Integração Flutter < - > Nativo pré existente
@@ -83,7 +78,6 @@ Integração Flutter < - > Nativo pré existente
 • Platform Channel
 
 • Flutter Modules
-
 
 
 # Módulo VI⁣I⁣
@@ -95,7 +89,6 @@ Setup de ambientes fechados⁣
 • Flavor⁣
 
 ⁣
-
 # Módulo VI⁣II
 
 DaaC (Doc as Code)⁣
@@ -104,7 +97,6 @@ DaaC (Doc as Code)⁣
 
 • Dartdoc⁣
 
-⁣
 
 # Módulo IX
 
@@ -115,7 +107,6 @@ Animações⁣
 • Implícitas (ex: AnimatedBuilder)⁣
 
 • Lottie (After Effects)
-
 
 
 # Módulo X⁣
@@ -129,7 +120,6 @@ Internacionalização⁣
 • Internacionalização Online⁣
 
 ⁣
-
 # Módulo XI
 
 Estilização para diferentes plataformas ⁣
@@ -140,9 +130,8 @@ Estilização para diferentes plataformas ⁣
 
 • Platform.isIOS⁣
 
-⁣
 
-Módulo XII
+# Módulo XII
 
 Boas Práticas de Performance⁣
 
