@@ -1,16 +1,16 @@
 # Linha-de-estudos
 
-#Módulo I⁣
+# Módulo I⁣
 
-#Tipos de componentes Dart⁣
+Tipos de componentes Dart⁣
 
-#• Widgets⁣
+• Widgets⁣
 
-#• Stateful⁣
+• Stateful⁣
 
-#• Stateless⁣
+• Stateless⁣
 
-#• Custom Widgets⁣
+• Custom Widgets⁣
 
 ⁣
 
